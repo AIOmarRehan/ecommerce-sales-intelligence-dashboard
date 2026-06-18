@@ -1,3 +1,7 @@
+![Medium Article](https://medium.com/@ai.omar.rehan/from-raw-csv-to-executive-decisions-building-a-complete-retail-analytics-pipeline-0d8d0699b922)
+
+---
+
 # Superstore Sales Analytics
 
 An end-to-end data analytics project built on the Superstore Sales dataset. Covers the full pipeline from raw data profiling through advanced machine learning to interactive dashboards and executive reporting.
