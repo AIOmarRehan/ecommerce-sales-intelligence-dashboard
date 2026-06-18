@@ -1,4 +1,4 @@
-![Medium Article](https://medium.com/@ai.omar.rehan/from-raw-csv-to-executive-decisions-building-a-complete-retail-analytics-pipeline-0d8d0699b922)
+[Medium Article](https://medium.com/@ai.omar.rehan/from-raw-csv-to-executive-decisions-building-a-complete-retail-analytics-pipeline-0d8d0699b922)
 
 ---
 
