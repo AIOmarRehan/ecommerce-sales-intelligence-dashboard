@@ -265,7 +265,3 @@ python scripts/db_import.py
 | DB_PASSWORD | (required) | Database password |
 | DB_HOST | localhost | Database host |
 | DB_PORT | 5432 | Database port |
-
-## License
-
-This project is for educational and portfolio purposes. The Superstore dataset originates from Tableau's public sample data.
